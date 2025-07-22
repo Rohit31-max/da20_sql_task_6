@@ -1,1 +1,1 @@
-# da20_sql_task_006
+# da20_task_6_sql
